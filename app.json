@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "NutriNInja",
+    "slug": "NutriNInja",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/Nutrininja.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/Nutrininja.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
