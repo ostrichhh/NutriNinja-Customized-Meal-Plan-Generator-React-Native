@@ -7,19 +7,19 @@ NutriNinja is a React Native mobile application that generates customized meal p
 ## Features
 
 -  **AI-Powered Meal Plans** - Leverages Google Gemini AI to create personalized meal recommendations
--  
+  
 -  **Body Type Analysis** - Supports Endomorph, Mesomorph, and Ectomorph metabolism types
--  
+  
 -  **Goal-Oriented** - Tailored plans for cutting, bulking, or maintaining weight
--  
+  
 -  **Multi-Language Support** - Available in English, Tagalog, and Ilocano
--  
+  
 -  **Dietary Restrictions** - Accommodates vegetarian, pescatarian, and custom dietary needs
--  
+  
 -  **History Management** - Save, view, and manage your meal plan history
--  
+   
 -  **Beautiful UI** - Clean, modern interface with React Native Paper components
--  
+  
 -  **Secure** - API keys protected using environment variables
 
 ##  Tech Stack
