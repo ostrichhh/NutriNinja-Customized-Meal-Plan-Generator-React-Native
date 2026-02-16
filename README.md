@@ -1,21 +1,21 @@
-# 🥷 NutriNinja - AI-Powered Meal Plan Generator
+#  NutriNinja - AI-Powered Meal Plan Generator
 
 > Your personalized nutrition assistant powered by Google Gemini AI
 
 NutriNinja is a React Native mobile application that generates customized meal plans based on your body type, fitness goals, and dietary preferences using advanced AI technology.
 
-## ✨ Features
+## Features
 
-- 🤖 **AI-Powered Meal Plans** - Leverages Google Gemini AI to create personalized meal recommendations
-- 📊 **Body Type Analysis** - Supports Endomorph, Mesomorph, and Ectomorph metabolism types
-- 🎯 **Goal-Oriented** - Tailored plans for cutting, bulking, or maintaining weight
-- 🌍 **Multi-Language Support** - Available in English, Tagalog, and Ilocano
-- 🥗 **Dietary Restrictions** - Accommodates vegetarian, pescatarian, and custom dietary needs
-- 📱 **History Management** - Save, view, and manage your meal plan history
-- 🎨 **Beautiful UI** - Clean, modern interface with React Native Paper components
-- 🔒 **Secure** - API keys protected using environment variables
+-  **AI-Powered Meal Plans** - Leverages Google Gemini AI to create personalized meal recommendations
+-  **Body Type Analysis** - Supports Endomorph, Mesomorph, and Ectomorph metabolism types
+-  **Goal-Oriented** - Tailored plans for cutting, bulking, or maintaining weight
+-  **Multi-Language Support** - Available in English, Tagalog, and Ilocano
+-  **Dietary Restrictions** - Accommodates vegetarian, pescatarian, and custom dietary needs
+-  **History Management** - Save, view, and manage your meal plan history
+-  **Beautiful UI** - Clean, modern interface with React Native Paper components
+-  **Secure** - API keys protected using environment variables
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Framework:** React Native with Expo
 - **Language:** TypeScript
@@ -69,7 +69,7 @@ NutriNinja/
 └── .env.local           # Environment variables (not tracked)
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -125,7 +125,7 @@ NutriNinja/
 5. **View History** - Access saved meal plans in the "History" tab
 6. **Manage Settings** - Customize app preferences in the "Settings" tab
 
-## 🏗️ Architecture Highlights
+##  Architecture Highlights
 
 ### Clean Architecture
 - **Separation of Concerns:** UI components separated from business logic
@@ -139,17 +139,17 @@ NutriNinja/
 - **Environment Configuration:** Secure API key management
 - **Error Handling:** Consistent error states across the app
 
-## 🔐 Security
+##  Security
 
 - API keys are stored in `.env.local` (git-ignored)
 - Environment variables use Expo's `EXPO_PUBLIC_` prefix
 - Sensitive data never committed to version control
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).
 
