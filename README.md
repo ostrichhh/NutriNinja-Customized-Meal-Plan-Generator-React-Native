@@ -1,4 +1,4 @@
-![NutriNinja Preview](assets/images/NutriNinja Preview.png)
+![NutriNinja Preview.png](assets/images/NutriNinja Preview.png)
 
 
 #  NutriNinja - AI-Powered Meal Plan Generator
