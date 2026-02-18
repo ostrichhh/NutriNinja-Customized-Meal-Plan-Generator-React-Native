@@ -1,6 +1,4 @@
 ![NutriNinja Preview.png](assets/images/NutriNinja Preview.png)
-
-
 #  NutriNinja - AI-Powered Meal Plan Generator
 
 > Your personalized nutrition assistant powered by Google Gemini AI
