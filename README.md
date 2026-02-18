@@ -1,6 +1,5 @@
-![displaygemini.png](assets/images/displaygemini.png)
-![displayhistory.png](assets/images/displayhistory.png)
-![displaygenerate.png](assets/images/displaygenerate.png)
+![NutriNinja Preview.png](assets/images/NutriNinja Preview.png)
+
 
 #  NutriNinja - AI-Powered Meal Plan Generator
 
